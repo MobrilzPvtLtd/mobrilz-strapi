@@ -1,6 +1,13 @@
 ############################
 # OS X
 ############################
+.editorconfig
+.env.example
+.eslintrc
+.strapi*
+.eslintignore
+yarn.lock
+jsconfig.json
 .env.example
 .DS_Store
 .AppleDouble
